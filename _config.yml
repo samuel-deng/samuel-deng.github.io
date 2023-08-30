@@ -23,7 +23,7 @@ email: samdeng@cs.columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Columbia University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "samfdeng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "samuel-deng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-minimal
