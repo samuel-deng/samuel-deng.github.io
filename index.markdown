@@ -43,9 +43,13 @@ On the teaching front, I've had the pleasure of:
 - Participating in Columbia's [Center for Teaching and Learning (CTL) Teaching Development Program](https://ctl.columbia.edu/), a multiyear certification program for students to cultivate, document, and reflect on the development of their teaching throughout their Ph.D.
 - Serving as Head TA for Daniel Hsu's *Computational Linear Algebra*, Fall 2022. [(course webpage)](https://www.cs.columbia.edu/~djhsu/coms3251-f22/) Delivered a guest lecture on eigenvectors and eigenvalues as part of an observation for CTL's Foundation Track program (12/01/2022).
 - Serving as an Instructor for Christos Papadimitriou and John Morrison's *Natural and Artificial Neural Networks Lab*, Spring 2022. My co-instructor, [Clayton Sanford](https://claytonsanford.com/), and I designed the 1-credit lab from scratch: [all materials are available here](https://samuel-deng.github.io/coms4995-nat-art-neural-nets).
-- Serving as a Teaching Assistant Fellow during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was Head TA. 
+- Serving as a Teaching Assistant Fellow during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
 - Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
+I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning.
+
 ## Service
+Alongside Hadleigh Schwartz, I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject.
 
 ## Miscellaneous
+I like running[.](/assets/vig.JPG)
