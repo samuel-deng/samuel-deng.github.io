@@ -37,7 +37,7 @@ Samuel Deng, Achille Varzi.<br>
 Undergraduate Senior Thesis, 2019. [full pdf](/assets/senior_thesis.pdf)
 
 ## Teaching
-I love teaching, and I am passionate about developing my own pedagogical practices. In particular, it's important to me to think about ways in which pedagogy in computer science and math education could be improved to be more effecitve, empathetic, and equitable to diverse student needs. 
+I love teaching, and I am passionate about developing my own pedagogical practices. In particular, it's important to me to think about ways in which pedagogy in computer science and math education could be improved to be more effective, empathetic, and equitable to diverse student needs.
 
 On the teaching front, I've had the pleasure of:
 - Participating in Columbia's [Center for Teaching and Learning (CTL) Teaching Development Program](https://ctl.columbia.edu/), a multiyear certification program for students to cultivate, document, and reflect on the development of their teaching throughout their Ph.D.
