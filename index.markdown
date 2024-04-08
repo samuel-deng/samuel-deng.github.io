@@ -48,10 +48,10 @@ On the teaching front, I've had the pleasure of:
 - Serving as a Teaching Assistant Fellow during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
 - Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
-I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning.
+I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. A preliminary syllabus can be [(found here.)](/assets/syllabus_su24.pdf)
 
 ## Service
 Alongside Hadleigh Schwartz, I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject.
 
 ## Miscellaneous
-I also like [long-distance running,](https://www.strava.com/athletes/samuel_deng) nerding out about [b](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)[o](https://en.wikipedia.org/wiki/Flatland)[o](https://en.wikipedia.org/wiki/Nicomachean_Ethics)[k](https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html)[s](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) and [mo](https://www.youtube.com/watch?v=FWG3Dfss3Jc)[vi](https://www.youtube.com/watch?v=2VeLN3IDjzQ)[es](https://www.youtube.com/watch?v=rph_1DODXDU)[,](/assets/vig.JPG) and [a good burrito](https://www.calitacos.com/). I'm currently training for the 2023 New York City Marathon.
+I also like [long-distance running,](https://www.strava.com/athletes/samuel_deng) nerding out about [b](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)[o](https://en.wikipedia.org/wiki/Flatland)[o](https://en.wikipedia.org/wiki/Nicomachean_Ethics)[k](https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html)[s](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) and [mo](https://www.youtube.com/watch?v=FWG3Dfss3Jc)[vi](https://www.youtube.com/watch?v=2VeLN3IDjzQ)[es](https://www.youtube.com/watch?v=rph_1DODXDU)[,](/assets/vig.JPG),  and [a good burrito](https://www.calitacos.com/).
