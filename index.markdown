@@ -48,7 +48,7 @@ On the teaching front, I've had the pleasure of:
 - Serving as a Teaching Assistant Fellow during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
 - Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
-I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. A preliminary syllabus can be [(found here.)](/assets/syllabus_su24.pdf)
+I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. A preliminary syllabus can be [found here.](/assets/syllabus_su24.pdf)
 
 ## Service
 Alongside Hadleigh Schwartz, I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject.
