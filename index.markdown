@@ -11,7 +11,7 @@ A bit more specifically, my research focuses on statistical learning in settings
 ## Research
 [Multi-group Learning for Hierarchical Groups](https://arxiv.org/abs/2402.00258)<br>
 Samuel Deng and Daniel Hsu.<br>
-*International Conference of Machine Learning (ICML),* 2024.
+*International Conference on Machine Learning (ICML),* 2024.
 
 [Learning Tensor Representations for Meta-Learning](https://arxiv.org/abs/2201.07348).<br>
 Samuel Deng, Yilin Guo, Daniel Hsu, Debmalya Mandal.<br>
