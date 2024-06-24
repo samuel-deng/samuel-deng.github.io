@@ -9,6 +9,10 @@ Hi there! I'm Sam, a PhD candidate in the [Theory of Computation Group](https://
 A bit more specifically, my research focuses on statistical learning in settings where the training and test distributions differ: this might arise, for instance, from distribution shift or demand for a more fine-grained notion of accuracy on subgroups. I also like thinking about online learning, sequential decision-making, and all the [cool theory](https://cesa-bianchi.di.unimi.it/predbook/) that comes out of it.
 
 ## Research
+[Group-wise oracle-efficient algorithms for online multi-group learning](https://arxiv.org/abs/2406.05287)<br>
+Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
+*Preprint,* 2024.
+
 [Multi-group Learning for Hierarchical Groups](https://arxiv.org/abs/2402.00258)<br>
 Samuel Deng and Daniel Hsu.<br>
 *International Conference on Machine Learning (ICML),* 2024.
@@ -48,10 +52,10 @@ On the teaching front, I've had the pleasure of:
 - Serving as a Teaching Assistant Fellow during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
 - Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
-I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. A preliminary syllabus can be [found here.](/assets/syllabus_su24.pdf)
+I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. Update: I am teaching this course in the Summer B session of 2024; [class materials are publically available here](https://samuel-deng.github.io/math4ml_su24/).
 
 ## Service
 Alongside Hadleigh Schwartz, I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject.
 
 ## Miscellaneous
-I also like [long-distance running,](https://www.strava.com/athletes/samuel_deng) nerding out about [b](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)[o](https://en.wikipedia.org/wiki/Flatland)[o](https://en.wikipedia.org/wiki/Nicomachean_Ethics)[k](https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html)[s](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) and [mo](https://www.youtube.com/watch?v=FWG3Dfss3Jc)[vi](https://www.youtube.com/watch?v=2VeLN3IDjzQ)[es](https://www.youtube.com/watch?v=rph_1DODXDU)[,](/assets/vig.JPG)  and [a good burrito](https://www.calitacos.com/).
+I also like long-distance running, nerding out about [b](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)[o](https://en.wikipedia.org/wiki/Flatland)[o](https://en.wikipedia.org/wiki/Nicomachean_Ethics)[k](https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html)[s](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) and [mo](https://www.youtube.com/watch?v=FWG3Dfss3Jc)[vi](https://www.youtube.com/watch?v=2VeLN3IDjzQ)[es](https://www.youtube.com/watch?v=rph_1DODXDU)[,](/assets/vig.JPG)  and [a good burrito](https://www.calitacos.com/).
