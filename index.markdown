@@ -52,7 +52,7 @@ On the teaching front, I've had the pleasure of:
 - Serving as a Teaching Assistant Fellow during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
 - Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
-I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. Update: I am teaching this course in the Summer B session of 2024; [class materials are publically available here](https://samuel-deng.github.io/math4ml_su24/).
+I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. Update: I am teaching this course in the Summer B session of 2024; [class materials are publicly available here](https://samuel-deng.github.io/math4ml_su24/).
 
 ## Service
 Alongside Hadleigh Schwartz, I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject.
