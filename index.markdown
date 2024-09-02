@@ -8,6 +8,8 @@ Hi there! I'm Sam, a PhD candidate in the [Theory of Computation Group](https://
 
 A bit more specifically, my research focuses on statistical learning in settings where the training and test distributions differ: this might arise, for instance, from distribution shift or demand for a more fine-grained notion of accuracy on subgroups. I also like thinking about online learning, sequential decision-making, and all the [cool theory](https://cesa-bianchi.di.unimi.it/predbook/) that comes out of it.
 
+I'm grateful to have my research supported by the Avanessians Doctoral Fellowship for Engineering Thought Leaders and Innovators in Data Science. 
+
 ## Research
 [Group-wise oracle-efficient algorithms for online multi-group learning](https://arxiv.org/abs/2406.05287)<br>
 Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
@@ -43,19 +45,22 @@ Samuel Deng, Achille Varzi.<br>
 Undergraduate Senior Thesis, 2019. [full pdf](/assets/senior_thesis.pdf)
 
 ## Teaching
-I love teaching, and I am passionate about developing my own pedagogical practices. In particular, it's important to me to think about ways in which pedagogy in computer science and math education could be improved to be more effective, empathetic, and equitable to diverse student needs.
+I *really* love teaching, and I am passionate about developing my own pedagogical practices. In particular, it's important to me to think about ways in which pedagogy in computer science and math education could be improved to be more effective, empathetic, and equitable to diverse student needs.
 
-On the teaching front, I've had the pleasure of:
+In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su24/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was).
+
+On the teaching front, I've also had the pleasure of:
 - Participating in Columbia's [Center for Teaching and Learning (CTL) Teaching Development Program](https://ctl.columbia.edu/), a multiyear certification program for students to cultivate, document, and reflect on the development of their teaching throughout their Ph.D.
 - Serving as Head TA for Daniel Hsu's *Computational Linear Algebra*, Fall 2022. [(course webpage)](https://www.cs.columbia.edu/~djhsu/coms3251-f22/) Delivered a guest lecture on eigenvectors and eigenvalues as part of an observation for CTL's Foundation Track program (12/01/2022).
 - Serving as an Instructor for Christos Papadimitriou and John Morrison's *Natural and Artificial Neural Networks Lab*, Spring 2022. My co-instructor, [Clayton Sanford](https://claytonsanford.com/), and I designed the 1-credit lab from scratch: [all materials are available here](https://samuel-deng.github.io/coms4995-nat-art-neural-nets).
 - Serving as a Teaching Assistant Fellow during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
 - Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
-I'm currently developing a syllabus and material for *Mathematics for Machine Learning*, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. Update: I am teaching this course in the Summer B session of 2024; [class materials are publicly available here](https://samuel-deng.github.io/math4ml_su24/).
-
 ## Service
 Alongside Hadleigh Schwartz, I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject.
+
+Other responsibilities have included:
+- Conference reviewer: NeurIPS 2024, ICLR 2025.
 
 ## Miscellaneous
 I also like long-distance running, nerding out about [b](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)[o](https://en.wikipedia.org/wiki/Flatland)[o](https://en.wikipedia.org/wiki/Nicomachean_Ethics)[k](https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html)[s](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) and [mo](https://www.youtube.com/watch?v=FWG3Dfss3Jc)[vi](https://www.youtube.com/watch?v=2VeLN3IDjzQ)[es](https://www.youtube.com/watch?v=rph_1DODXDU)[,](/assets/vig.JPG)  and [a good burrito](https://www.calitacos.com/).
