@@ -47,7 +47,7 @@ Undergraduate Senior Thesis, 2019. [full pdf](/assets/senior_thesis.pdf)
 ## Teaching
 I *really* love teaching, and I am passionate about developing my own pedagogical practices. In particular, it's important to me to think about ways in which pedagogy in computer science and math education could be improved to be more effective, empathetic, and equitable to diverse student needs.
 
-In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su24/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was).
+**Math for ML:** In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su24/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was).
 
 On the teaching front, I've also had the pleasure of:
 - Participating in Columbia's [Center for Teaching and Learning (CTL) Teaching Development Program](https://ctl.columbia.edu/), a multiyear certification program for students to cultivate, document, and reflect on the development of their teaching throughout their Ph.D.
