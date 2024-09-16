@@ -8,7 +8,7 @@ Hi there! I'm Sam, a PhD candidate in the [Theory of Computation Group](https://
 
 A bit more specifically, my research focuses on statistical learning in settings where the training and test distributions differ: this might arise, for instance, from distribution shift or demand for a more fine-grained notion of accuracy on subgroups. I also like thinking about online learning, sequential decision-making, and all the [cool theory](https://cesa-bianchi.di.unimi.it/predbook/) that comes out of it.
 
-I'm grateful to have my research supported by the Avanessians Doctoral Fellowship for Engineering Thought Leaders and Innovators in Data Science. 
+I'm grateful to have my research supported by the [Avanessians Doctoral Fellowship for Engineering Thought Leaders and Innovators in Data Science](https://datascience.columbia.edu/news/2021/new-avanessians-gift-propels-innovation-in-engineering-and-data-science/). 
 
 ## Research
 [Group-wise oracle-efficient algorithms for online multi-group learning](https://arxiv.org/abs/2406.05287)<br>
