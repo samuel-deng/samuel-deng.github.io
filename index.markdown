@@ -15,7 +15,7 @@ In the Fall of 2024, I'm a visiting student at the Simons program on [Modern Par
 ## Research
 [Group-wise oracle-efficient algorithms for online multi-group learning](https://arxiv.org/abs/2406.05287)<br>
 Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
-*NeurIPS*, 2024.
+*Advances in Neural Information Processing Systems (NeurIPS),* 2024.
 
 [Multi-group Learning for Hierarchical Groups](https://arxiv.org/abs/2402.00258)<br>
 Samuel Deng and Daniel Hsu.<br>
