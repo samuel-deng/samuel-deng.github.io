@@ -10,10 +10,12 @@ A bit more specifically, my research focuses on statistical learning in settings
 
 I'm grateful to have my research supported by the [Avanessians Doctoral Fellowship for Engineering Thought Leaders and Innovators in Data Science](https://datascience.columbia.edu/news/2021/new-avanessians-gift-propels-innovation-in-engineering-and-data-science/). 
 
+In the Fall of 2024, I'm a visiting student at the Simons program on [Modern Paradigms of Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization). If you're at Berkeley or at the program, I would love to chat about research or whatever else!
+
 ## Research
 [Group-wise oracle-efficient algorithms for online multi-group learning](https://arxiv.org/abs/2406.05287)<br>
 Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
-*Preprint,* 2024.
+*NeurIPS*, 2024.
 
 [Multi-group Learning for Hierarchical Groups](https://arxiv.org/abs/2402.00258)<br>
 Samuel Deng and Daniel Hsu.<br>
