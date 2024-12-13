@@ -15,7 +15,8 @@ In the Fall of 2024, I was a visiting student at the Simons program on [Modern P
 ## Research
 [Mathematics for Machine Learning: A Bridge Course](/assets/sigcse25.pdf)<br>
 Samuel Deng.<br>
-Poster in: *Technical Symposium on Computer Science Education (SIGCSE TS),* 2025.
+*Technical Symposium on Computer Science Education (SIGCSE TS),* 2025.<br>
+Poster/extended abstract.
 
 [Group-wise oracle-efficient algorithms for online multi-group learning](https://arxiv.org/abs/2406.05287)<br>
 Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
