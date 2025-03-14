@@ -8,9 +8,7 @@ Hi there! I'm Sam, a PhD candidate in the [Theory of Computation Group](https://
 
 A bit more specifically, my research focuses on statistical learning in settings where one cares about learning not just on *average* over a population, but on a (potentially very large) number of overlapping subgroups of the population. Such *multi-group* considerations can be captured in formalizations such as *multicalibration* or *multi-group PAC learning*, and they are meant to model problems that have more complex desiderata such as fairness or robustness. I also like thinking about online learning, sequential decision-making, and all the [cool theory](https://cesa-bianchi.di.unimi.it/predbook/) that comes out of it.
 
-I'm grateful to have my research supported by the [Avanessians Doctoral Fellowship for Engineering Thought Leaders and Innovators in Data Science](https://datascience.columbia.edu/news/2021/new-avanessians-gift-propels-innovation-in-engineering-and-data-science/) and my teaching in the summer of 2024 supported by a SEAS Doctoral Teaching Fellowship.
-
-In the Fall of 2024, I was a visiting student at the Simons program on [Modern Paradigms of Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization). If you're at Berkeley or at the program, I would love to chat about research or whatever else!
+I'm grateful to have my research supported by the [Avanessians Doctoral Fellowship for Engineering Thought Leaders and Innovators in Data Science](https://datascience.columbia.edu/news/2021/new-avanessians-gift-propels-innovation-in-engineering-and-data-science/) and my teaching in the summer of 2024 supported by a SEAS Doctoral Teaching Fellowship. In the Fall of 2024, I was a visiting student at the Simons program on [Modern Paradigms of Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization).
 
 ## Research
 [Mathematics for Machine Learning: A Bridge Course](/assets/sigcse25.pdf)<br>
