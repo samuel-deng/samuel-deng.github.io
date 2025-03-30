@@ -50,21 +50,24 @@ Samuel Deng, Achille Varzi.<br>
 Undergraduate Senior Thesis, 2019. [full pdf](/assets/senior_thesis.pdf)
 
 ## Teaching
-I *really* love teaching, and I am passionate about developing my own pedagogical practices. In particular, it's important to me to think about ways in which pedagogy in computer science and math education could be improved to be more effective, empathetic, and equitable to diverse student needs.
+I *really* love teaching, and I am passionate about continuously developing as a teacher. My [teaching philosophy](/assets/teaching_statement_short.pdf) centers around three core principles:
+1. A driving and cohesive narrative should propel all parts of a course.
+2. Ideas should be presented as if the student could’ve discovered them themselves.
+3. An instructor should never forget how they first struggled when learning the same ideas.
 
-In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su24/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was). The course has since been added to Columbia's official Computer Science curriculum, and I presented a [poster on this course](/assets/math4ml_poster.pdf) at SIGCSE TS 2025.
+In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su24/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was). The course has since been added to Columbia's official Computer Science curriculum, and I presented a [poster on this course](/assets/math4ml_poster.pdf) at SIGCSE TS 2025. I will be teaching this again in Summer 2025.
 
 On the teaching front, I've also had the pleasure of:
 - Participating in Columbia's [Center for Teaching and Learning (CTL) Teaching Development Program](https://ctl.columbia.edu/), a multiyear certification program for students to cultivate, document, and reflect on the development of their teaching throughout their Ph.D.
-- Serving as Head TA for Daniel Hsu's *Computational Linear Algebra*, Fall 2022. [(course webpage)](https://www.cs.columbia.edu/~djhsu/coms3251-f22/) Delivered a guest lecture on eigenvectors and eigenvalues as part of an observation for CTL's Foundation Track program (12/01/2022).
-- Serving as an Instructor for Christos Papadimitriou and John Morrison's *Natural and Artificial Neural Networks Lab*, Spring 2022. My co-instructor, [Clayton Sanford](https://claytonsanford.com/), and I designed the 1-credit lab from scratch: [all materials are available here](https://samuel-deng.github.io/coms4995-nat-art-neural-nets).
-- Serving as a Teaching Assistant Fellow during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
+- Serving as Head TA for Daniel Hsu's *Computational Linear Algebra*, Fall 2022. [(course webpage)](https://www.cs.columbia.edu/~djhsu/coms3251-f22/) Delivered a [guest lecture on eigenvectors and eigenvalues](https://www.youtube.com/watch?v=Hpa2rl4Euyo&list=PLNm9W-YkOtpOtQmFxmw9MzARpHqAPHLxd&index=6) as part of an observation for CTL's Foundation Track program (12/01/2022), as well as [weekly recitations](https://www.youtube.com/watch?v=lOADPrhy8nI&list=PLNm9W-YkOtpOtQmFxmw9MzARpHqAPHLxd&index=8&t=1s).
+- Serving as an Instructor for Christos Papadimitriou and John Morrison's *Natural and Artificial Neural Networks Lab*, Spring 2022. My co-instructor, [Clayton Sanford](https://claytonsanford.com/), and I designed the companion course from scratch: [all materials are available here](https://samuel-deng.github.io/coms4995-nat-art-neural-nets).
+- Serving as a Teaching Assistant Fellow and Head Teaching Assistant during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
 - Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
 ## Service
 Alongside Hadleigh Schwartz, I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject. Please reach out if you'd like to learn more about this program!
 
-On the broader academic side, I have also served as a reviewer for: NeurIPS 2024, ICLR 2025, ICML 2025.
+For the broader scientific community, I have also served as a reviewer for: NeurIPS 2024 (Top Reviewer), ICLR 2025, ICML 2025.
 
 ## Miscellaneous
 I also like long-distance running, fiddling around poorly on the guitar, nerding out about [b](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)[o](https://en.wikipedia.org/wiki/Flatland)[o](https://en.wikipedia.org/wiki/Nicomachean_Ethics)[k](https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html)[s](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) and [mo](https://www.youtube.com/watch?v=FWG3Dfss3Jc)[vi](https://www.youtube.com/watch?v=2VeLN3IDjzQ)[es](https://www.youtube.com/watch?v=rph_1DODXDU)[,](/assets/vig.JPG)  and [a good burrito](https://www.calitacos.com/).
