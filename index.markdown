@@ -57,7 +57,7 @@ I *really* love teaching, and I am passionate about continuously developing as a
 2. Ideas should be presented as if the student could’ve discovered them themselves.
 3. An instructor should never forget how they first struggled when learning the same ideas.
 
-I've also constructed a draft [teaching portfolio](/assets/teaching_portfolio_highres.pdf) that compiles all the feedback I've received thus far on my teaching and dives into how I try to practice this philosophy with several representative artifacts. This is a work in progress; it'll eventually be another part of my website (not a clunky 40 MB document -- sorry!)
+I've also constructed a draft [teaching portfolio](/assets/teaching_portfolio_highres.pdf) that compiles all the feedback I've received thus far on my teaching and dives into how I try to practice this philosophy with several representative artifacts. This is a work in progress; it'll eventually be another part of my website (not a clunky 40 MB document!)
 
 In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su24/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was). The course has since been added to Columbia's official Computer Science curriculum, and I presented a [poster on this course](/assets/poster_math4ml.pdf) at SIGCSE TS 2025. I will be teaching this again in Summer 2025.
 
