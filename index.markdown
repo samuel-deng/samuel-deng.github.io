@@ -24,7 +24,7 @@ Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
 [Multi-group Learning for Hierarchical Groups](https://arxiv.org/abs/2402.00258)<br>
 Samuel Deng and Daniel Hsu.<br>
 *International Conference on Machine Learning (ICML),* 2024.
-[Poster](/assets/poster_hierarchical.pdf)
+[Poster](/assets/poster_hierarch.pdf)
 
 [Learning Tensor Representations for Meta-Learning](https://arxiv.org/abs/2201.07348).<br>
 Samuel Deng, Yilin Guo, Daniel Hsu, Debmalya Mandal.<br>
