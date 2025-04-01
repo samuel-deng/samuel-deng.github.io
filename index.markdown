@@ -14,15 +14,17 @@ I'm grateful to have my research supported by the [Avanessians Doctoral Fellowsh
 [Mathematics for Machine Learning: A Bridge Course](/assets/sigcse25.pdf)<br>
 Samuel Deng.<br>
 *Technical Symposium on Computer Science Education (SIGCSE TS),* 2025.<br>
-[Poster](/assets/math4ml_poster.pdf)
+[Poster](/assets/poster_math4ml.pdf)
 
 [Group-wise oracle-efficient algorithms for online multi-group learning](https://arxiv.org/abs/2406.05287)<br>
 Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
 *Advances in Neural Information Processing Systems (NeurIPS),* 2024.
+[Poster](/assets/poster_oracle.pdf)
 
 [Multi-group Learning for Hierarchical Groups](https://arxiv.org/abs/2402.00258)<br>
 Samuel Deng and Daniel Hsu.<br>
 *International Conference on Machine Learning (ICML),* 2024.
+[Poster](/assets/poster_hierarchical.pdf)
 
 [Learning Tensor Representations for Meta-Learning](https://arxiv.org/abs/2201.07348).<br>
 Samuel Deng, Yilin Guo, Daniel Hsu, Debmalya Mandal.<br>
@@ -55,7 +57,7 @@ I *really* love teaching, and I am passionate about continuously developing as a
 2. Ideas should be presented as if the student could’ve discovered them themselves.
 3. An instructor should never forget how they first struggled when learning the same ideas.
 
-In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su24/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was). The course has since been added to Columbia's official Computer Science curriculum, and I presented a [poster on this course](/assets/math4ml_poster.pdf) at SIGCSE TS 2025. I will be teaching this again in Summer 2025.
+In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su24/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was). The course has since been added to Columbia's official Computer Science curriculum, and I presented a [poster on this course](/assets/poster_math4ml.pdf) at SIGCSE TS 2025. I will be teaching this again in Summer 2025.
 
 On the teaching front, I've also had the pleasure of:
 - Participating in Columbia's [Center for Teaching and Learning (CTL) Teaching Development Program](https://ctl.columbia.edu/), a multiyear certification program for students to cultivate, document, and reflect on the development of their teaching throughout their Ph.D.
