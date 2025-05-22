@@ -10,6 +10,8 @@ My broad research areas are: algorithmic statistics, machine learning theory, an
 
 I'm grateful to have my research supported by the [Avanessians Doctoral Fellowship for Engineering Thought Leaders and Innovators in Data Science](https://datascience.columbia.edu/news/2021/new-avanessians-gift-propels-innovation-in-engineering-and-data-science/) and my teaching in the summers of 2024 and 2025 supported by a SEAS Doctoral Teaching Fellowship. In the Fall of 2024, I was a visiting student at the Simons program on [Modern Paradigms of Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization) at Berkeley.
 
+In Summer A 2025, I am teaching [Mathematics for Machine Learning](https://samuel-deng.github.io/math4ml_su25/).
+
 ## Research
 [Mathematics for Machine Learning: A Bridge Course](/assets/sigcse25.pdf)<br>
 Samuel Deng.<br>
