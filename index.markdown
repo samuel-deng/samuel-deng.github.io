@@ -12,6 +12,8 @@ I'm grateful to have my research supported by the [Avanessians Doctoral Fellowsh
 
 In Summer A 2025, I am teaching [Mathematics for Machine Learning](https://samuel-deng.github.io/math4ml_su25/).
 
+Starting Fall 2026, I will be a clinical assistant professor at the [NYU Center for Data Science](https://cds.nyu.edu/). I'm currently thinking about how to best design a core introductory machine learning course; if you have any thoughts about this, I'd love to chat!
+
 ## Research
 [Mathematics for Machine Learning: A Bridge Course](/assets/sigcse25.pdf)<br>
 Samuel Deng.<br>
