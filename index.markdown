@@ -10,8 +10,6 @@ My broad research areas are: algorithmic statistics, machine learning theory, an
 
 I'm grateful to have my research supported by the [Avanessians Doctoral Fellowship for Engineering Thought Leaders and Innovators in Data Science](https://datascience.columbia.edu/news/2021/new-avanessians-gift-propels-innovation-in-engineering-and-data-science/) and my teaching in the summers of 2024 and 2025 supported by a SEAS Doctoral Teaching Fellowship. In the Fall of 2024, I was a visiting student at the Simons program on [Modern Paradigms of Generalization](https://simons.berkeley.edu/programs/modern-paradigms-generalization) at Berkeley.
 
-In Summer A 2025, I am teaching [Mathematics for Machine Learning](https://samuel-deng.github.io/math4ml_su25/).
-
 Starting Fall 2026, I will be a clinical assistant professor at the [NYU Center for Data Science](https://cds.nyu.edu/). I'm currently thinking about how to best design a core introductory machine learning course; if you have any thoughts about this, I'd love to chat!
 
 ## Research
@@ -65,8 +63,8 @@ I've also constructed a draft [teaching portfolio](/assets/teaching_portfolio_hi
 
 **Some Teaching Experience.** In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su25/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was). The course has since been added to Columbia's official Computer Science curriculum, and I presented a [poster on this course](/assets/poster_math4ml.pdf) at SIGCSE TS 2025. Access to the course materials are available online:
 
-- [Mathematics for Machine Learning Summer 2025](https://samuel-deng.github.io/math4ml_su25/) (currently ongoing).
-- [Mathematics for Machine Learning Summer 2024](https://samuel-deng.github.io/math4ml_su24/) (ran from July 1st to August 9th, 2024).
+- [Mathematics for Machine Learning Summer 2025](https://samuel-deng.github.io/math4ml_su25/).
+- [Mathematics for Machine Learning Summer 2024](https://samuel-deng.github.io/math4ml_su24/).
 
 On the teaching front, I've also had the pleasure of:
 - Participating in Columbia's [Center for Teaching and Learning (CTL) Teaching Development Program](https://ctl.columbia.edu/), a multiyear certification program for students to cultivate, document, and reflect on the development of their teaching throughout their Ph.D.
@@ -76,9 +74,9 @@ On the teaching front, I've also had the pleasure of:
 - Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
 ## Service
-Alongside Hadleigh Schwartz, I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject. Please reach out if you'd like to learn more about this program!
+Alongside Hadleigh Schwartz and [Gabriel Chuang](https://www.cs.columbia.edu/~gtchuang/), I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject. Please reach out if you'd like to learn more about this program!
 
-For the broader scientific community, I have also served as a reviewer for: NeurIPS 2024 (Top Reviewer), ICLR 2025, ICML 2025.
+I have also served as a reviewer for: NeurIPS 2024 (Top Reviewer), ICLR 2025, ICML 2025, NeurIPS 2025 (Top Reviewer).
 
 ## Miscellaneous
-I also like long-distance running, fiddling around poorly on the guitar, nerding out about [b](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)[o](https://en.wikipedia.org/wiki/Flatland)[o](https://en.wikipedia.org/wiki/Nicomachean_Ethics)[k](https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html)[s](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) and [mo](https://www.youtube.com/watch?v=FWG3Dfss3Jc)[vi](https://www.youtube.com/watch?v=2VeLN3IDjzQ)[es](https://www.youtube.com/watch?v=rph_1DODXDU)[,](/assets/vig.JPG)  and [a good burrito](https://www.calitacos.com/).
+I also like long-distance running, nerding out about [b](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)[o](https://en.wikipedia.org/wiki/Flatland)[o](https://en.wikipedia.org/wiki/Nicomachean_Ethics)[k](https://www.nytimes.com/2022/09/25/books/review/stay-true-hua-hsu.html)[s](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) and [mo](https://www.youtube.com/watch?v=FWG3Dfss3Jc)[vi](https://www.youtube.com/watch?v=2VeLN3IDjzQ)[es](https://www.youtube.com/watch?v=rph_1DODXDU)[,](/assets/vig.JPG)  and [a good burrito](https://www.calitacos.com/).
