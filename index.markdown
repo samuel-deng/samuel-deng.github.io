@@ -12,28 +12,6 @@ I'm grateful to have had my research supported in 2024 by the [Avanessians Docto
 
 Starting Fall 2026, I will be a clinical assistant professor at the [NYU Center for Data Science](https://cds.nyu.edu/). I'm currently thinking about how to best design a core introductory machine learning course; if you have any thoughts about this, I'd love to chat!
 
-## Teaching
-**Currently Teaching.** In Spring 2026, I will be co-teaching [DS-GA 1003 Machine Learning]() at NYU with Nicholas Tomlin.
-
-**Teaching Philosophy.** I love teaching, and I am passionate about continuously developing as a teacher. My [teaching philosophy](/assets/teaching_statement_short.pdf) centers around three core principles:
-1. A driving and cohesive narrative should propel all parts of a course.
-2. Ideas should be presented as if the student could’ve discovered them themselves.
-3. An instructor should never forget how they first struggled when learning the same ideas.
-
-I've also constructed a draft [teaching portfolio](/assets/teaching_portfolio_highres.pdf) that compiles all the feedback I've received thus far on my teaching and dives into how I try to practice this philosophy with several representative artifacts. This is a work in progress; it'll eventually be another part of my website (not a clunky 40 MB document!)
-
-**Some Teaching Experience.** In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su25/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was). Access to the course materials are available online:
-
-- [Mathematics for Machine Learning Summer 2025](https://samuel-deng.github.io/math4ml_su25/).
-- [Mathematics for Machine Learning Summer 2024](https://samuel-deng.github.io/math4ml_su24/).
-
-On the teaching front, I've also had the pleasure of:
-- Participating in Columbia's [Center for Teaching and Learning (CTL) Teaching Development Program](https://ctl.columbia.edu/), a multiyear certification program for students to cultivate, document, and reflect on the development of their teaching throughout their Ph.D.
-- Serving as Head TA for Daniel Hsu's *Computational Linear Algebra*, Fall 2022. [(course webpage)](https://www.cs.columbia.edu/~djhsu/coms3251-f22/) Delivered a [guest lecture on eigenvectors and eigenvalues](https://www.youtube.com/watch?v=Hpa2rl4Euyo&list=PLNm9W-YkOtpOtQmFxmw9MzARpHqAPHLxd&index=6) as part of an observation for CTL's Foundation Track program (12/01/2022), as well as [weekly recitations](https://www.youtube.com/watch?v=lOADPrhy8nI&list=PLNm9W-YkOtpOtQmFxmw9MzARpHqAPHLxd&index=8&t=1s).
-- Serving as an Instructor for Christos Papadimitriou and John Morrison's *Natural and Artificial Neural Networks Lab*, Spring 2022. My co-instructor, [Clayton Sanford](https://claytonsanford.com/), and I designed the companion course from scratch: [all materials are available here](https://samuel-deng.github.io/coms4995-nat-art-neural-nets).
-- Serving as a Teaching Assistant Fellow and Head Teaching Assistant during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
-- Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
-
 ## Research
 [Group-realizable multi-group learning by minimizing empirical risk]()<br>
 Navid Ardeshir, Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
@@ -78,6 +56,28 @@ Bo Cowgill, Fabrizio Dell'Acqua, Samuel Deng, Daniel Hsu, Nakul Verma, Augustin 
 Samuel Deng, Achille Varzi.<br>
 *NeurIPS Workshop on Human-Centric Machine Learning,* 2019.<br>
 Undergraduate Senior Thesis, 2019. [full pdf](/assets/senior_thesis.pdf)
+
+## Teaching
+**Currently Teaching.** In Spring 2026, I will be co-teaching [DS-GA 1003 Machine Learning]() at NYU with Nicholas Tomlin.
+
+**Teaching Philosophy.** I love teaching, and I am passionate about continuously developing as a teacher. My [teaching philosophy](/assets/teaching_statement_short.pdf) centers around three core principles:
+1. A driving and cohesive narrative should propel all parts of a course.
+2. Ideas should be presented as if the student could’ve discovered them themselves.
+3. An instructor should never forget how they first struggled when learning the same ideas.
+
+I've also constructed a draft [teaching portfolio](/assets/teaching_portfolio_highres.pdf) that compiles all the feedback I've received thus far on my teaching and dives into how I try to practice this philosophy with several representative artifacts. This is a work in progress; it'll eventually be another part of my website (not a clunky 40 MB document!)
+
+**Some Teaching Experience.** In Summer 2024, I created and taught [*Mathematics for Machine Learning*](https://samuel-deng.github.io/math4ml_su25/) from scratch, a bridge course for Columbia CS students to strengthen mathematical foundations for studying machine learning. See the link for the course materials, which are all public. [Here's a bit on why I made this course](https://samuel-deng.github.io/math4ml_su24/assets/files/rationale.pdf) (tldr: when I took machine learning, I had no idea what an expectation was). Access to the course materials are available online:
+
+- [Mathematics for Machine Learning Summer 2025](https://samuel-deng.github.io/math4ml_su25/).
+- [Mathematics for Machine Learning Summer 2024](https://samuel-deng.github.io/math4ml_su24/).
+
+On the teaching front, I've also had the pleasure of:
+- Participating in Columbia's [Center for Teaching and Learning (CTL) Teaching Development Program](https://ctl.columbia.edu/), a multiyear certification program for students to cultivate, document, and reflect on the development of their teaching throughout their Ph.D.
+- Serving as Head TA for Daniel Hsu's *Computational Linear Algebra*, Fall 2022. [(course webpage)](https://www.cs.columbia.edu/~djhsu/coms3251-f22/) Delivered a [guest lecture on eigenvectors and eigenvalues](https://www.youtube.com/watch?v=Hpa2rl4Euyo&list=PLNm9W-YkOtpOtQmFxmw9MzARpHqAPHLxd&index=6) as part of an observation for CTL's Foundation Track program (12/01/2022), as well as [weekly recitations](https://www.youtube.com/watch?v=lOADPrhy8nI&list=PLNm9W-YkOtpOtQmFxmw9MzARpHqAPHLxd&index=8&t=1s).
+- Serving as an Instructor for Christos Papadimitriou and John Morrison's *Natural and Artificial Neural Networks Lab*, Spring 2022. My co-instructor, [Clayton Sanford](https://claytonsanford.com/), and I designed the companion course from scratch: [all materials are available here](https://samuel-deng.github.io/coms4995-nat-art-neural-nets).
+- Serving as a Teaching Assistant Fellow and Head Teaching Assistant during my M.S. for *Machine Learning* and *Discrete Mathematics,* where I was awarded the Andrew P. Kosoresow Award for Excellence in Teaching.
+- Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
 ## Service
 Alongside Hadleigh Schwartz and [Gabriel Chuang](https://www.cs.columbia.edu/~gtchuang/), I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject. Please reach out if you'd like to learn more about this program!
