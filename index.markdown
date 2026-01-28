@@ -13,7 +13,7 @@ I'm grateful to have had my research supported in 2024 by the [Avanessians Docto
 Starting Fall 2026, I will be a clinical assistant professor at the [NYU Center for Data Science](https://cds.nyu.edu/). I'm currently thinking about how to best design a core introductory machine learning course; if you have any thoughts about this, I'd love to chat!
 
 ## Research
-[Group-realizable multi-group learning by minimizing empirical risk]()<br>
+[Group-realizable multi-group learning by minimizing empirical risk](https://arxiv.org/abs/2601.16922)<br>
 Navid Ardeshir, Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
 *The 37th International Conference on Algorithmic Learning Theory (ALT),* 2026.
 
