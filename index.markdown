@@ -13,6 +13,12 @@ I'm grateful to have had my research supported in 2024 by the [Avanessians Docto
 Starting Fall 2026, I will be a clinical assistant professor at the [NYU Center for Data Science](https://cds.nyu.edu/). I'm currently thinking about how to best design a core introductory machine learning course; if you have any thoughts about this, I'd love to chat!
 
 ## Research
+Per tradition in TCS/mathematics, author ordering is *alphabetical* unless indicated by a double-asterisk (\*\*).
+
+[A One-Inclusion Graph Approach to Multi-group Learning](https://arxiv.org/abs/2603.23208)<br>
+Noah Bergam, Samuel Deng, and Daniel Hsu.<br>
+*Preprint.*
+
 [Group-realizable multi-group learning by minimizing empirical risk](https://arxiv.org/abs/2601.16922)<br>
 Navid Ardeshir, Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
 *The 37th International Conference on Algorithmic Learning Theory (ALT),* 2026.
@@ -45,11 +51,11 @@ Nicholas Carlini, Samuel Deng, Sanjam Garg, Somesh Jha, Saeed Mahloujifar, Moham
 *IEEE Symposium on Security and Privacy (Oakland),* 2021.
 
 [Ensuring Fairness Beyond the Training Data.](https://arxiv.org/abs/2007.06029)<br>
-Debmalya Mandal, Samuel Deng, Suman Jana, Jeannette Wing, Daniel Hsu.<br>
+Debmalya Mandal, Samuel Deng, Suman Jana, Jeannette Wing, Daniel Hsu. (\*\*)<br>
 *Advances in Neural Information Processing Systems (NeurIPS),* 2020.
 
 [Biased Programmers? Or Biased Data? A Field Experiment on Operationalizing AI Ethics.](https://arxiv.org/abs/2012.02394)<br>
-Bo Cowgill, Fabrizio Dell'Acqua, Samuel Deng, Daniel Hsu, Nakul Verma, Augustin Chaintreau.<br>
+Bo Cowgill, Fabrizio Dell'Acqua, Samuel Deng, Daniel Hsu, Nakul Verma, Augustin Chaintreau. (\*\*)<br>
 *21st ACM Conference on Economics and Computation,* 2020.
 
 [Methodological Blind Spots in Machine Learning Fairness: Lessons from the Philosophy of Science and Computer Science](https://arxiv.org/abs/1910.14210)<br>
@@ -80,7 +86,7 @@ On the teaching front, I've also had the pleasure of:
 - Serving as a TA for *Machine Learning* and *Discrete Mathematics* as an undergraduate at Columbia.
 
 ## Service
-Alongside Hadleigh Schwartz and [Gabriel Chuang](https://www.cs.columbia.edu/~gtchuang/), I am currently Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/), a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject. Please reach out if you'd like to learn more about this program!
+Alongside Hadleigh Schwartz and [Gabriel Chuang](https://www.cs.columbia.edu/~gtchuang/), I was Ph.D coordinator for Columbia's [Emerging Scholars Program (ESP)](https://www.cs.columbia.edu/esp/) from 2023 - 2025, a peer-taught, discussion-based seminar course for first and second-year CS students focused on group problem-solving, collaboration, and introducing beginning computer scientists to the breadth of the subject. Please reach out if you'd like to learn more about this program!
 
 I have also served as a reviewer for: NeurIPS 2024 (Top Reviewer), ICLR 2025, ICML 2025, NeurIPS 2025 (Top Reviewer) and SIGCSE 2025.
 
