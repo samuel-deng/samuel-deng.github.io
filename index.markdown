@@ -15,10 +15,6 @@ Starting Fall 2026, I will be a clinical assistant professor at the [NYU Center 
 ## Research
 Per tradition in TCS/mathematics, author ordering is *alphabetical* unless indicated by a double-asterisk (\*\*).
 
-[A One-Inclusion Graph Approach to Multi-group Learning](https://arxiv.org/abs/2603.23208)<br>
-Noah Bergam, Samuel Deng, and Daniel Hsu.<br>
-*Preprint.*
-
 [Group-realizable multi-group learning by minimizing empirical risk](https://arxiv.org/abs/2601.16922)<br>
 Navid Ardeshir, Samuel Deng, Daniel Hsu, and Jingwen Liu.<br>
 *The 37th International Conference on Algorithmic Learning Theory (ALT),* 2026.
