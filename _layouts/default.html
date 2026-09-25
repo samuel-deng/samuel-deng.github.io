@@ -23,38 +23,32 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ site.url }}">Samuel Deng</a></h1>
-        
-        <img src="/assets/img/face.jpg" alt="My Face" width="200" height="244"/>
-
-        <p>PhD Student in <a href="https://www.cs.columbia.edu//">Computer Science</a>
-          <br>
-          <a href="https://www.columbia.edu//">Columbia University</a>
-        </p>
-
-        <p>Email: samdeng [AT] cs.columbia.edu<br></p>
-
-        <ul>
-          <li><a href="/assets/cv.pdf">CV</a></li>
-          <li><a href="/#research">Research</a></li>
-          <li><a href="/#teaching">Teaching</a></li>
-          <li><a href="/#service">Service</a></li>
-          <li><a href="/#misc">Miscellaneous</a></li>
-        </ul>
+      <header class="profile-header">
+        <div class="profile-details">
+          <h1><a href="{{ '/' | relative_url }}">Samuel Deng</a></h1>
+          <p>samueldeng@nyu.edu</p>
+          <p><a href="https://cds.nyu.edu/">Center for Data Science</a><br>
+            <a href="https://www.nyu.edu/">New York University</a><br>
+            CDS 205D, 60 5th Ave
+          </p>
+        </div>
+        <img class="profile-photo" src="{{ '/assets/img/face.jpg' | relative_url }}" alt="Samuel Deng" width="200" height="244">
       </header>
-      <section>
-
-      {{ content }}
-
-      </section>
+      <nav class="page-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Me</a>
+        <span aria-hidden="true">|</span>
+        <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} aria-current="page"{% endif %}>Teaching</a>
+        <span aria-hidden="true">|</span>
+        <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} aria-current="page"{% endif %}>Research</a>
+      </nav>
+      <main id="main-content" aria-label="{{ page.title | default: site.title }}">
+        {{ content }}
+      </main>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
-
