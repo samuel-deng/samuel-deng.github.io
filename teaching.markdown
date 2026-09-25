@@ -22,7 +22,7 @@ On the teaching front, I'm currently thinking about:
 - DS-GA 1014: Optimization and Computational Linear Algebra (Fall 2026)
 - DS-UA 301: Linear Algebra and Optimization for Machine Learning (Fall 2026)
 
-For students in Fall 2026 courses, please check NYU Brightspace for all the course materials, announcements, and information.
+For students in my Fall 2026 courses, please check NYU Brightspace for all the course materials, announcements, and information.
 
 </div>
 </details>
