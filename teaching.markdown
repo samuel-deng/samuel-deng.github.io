@@ -6,8 +6,7 @@ permalink: /teaching/
 
 I'm quite lucky to be able to teach for a living. Currently, my focus is on courses in machine learning, AI, and math. I especially love helping students see how math can be beautiful sometimes. 
 
-Here are some thoughts I wrote about teaching that will at some point get updated (last updated Spring 2025):
-[Teaching philosophy](/assets/teaching_statement_short.pdf) · [Teaching portfolio](/assets/teaching_portfolio_highres.pdf)
+Here are some [thoughts](/assets/teaching_statement_short.pdf) and a [portfolio](/assets/teaching_portfolio_highres.pdf) I wrote about teaching that will at some point get updated (last updated Spring 2025). 
 
 On the teaching front, I'm currently thinking about:
 
