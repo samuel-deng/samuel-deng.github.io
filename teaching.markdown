@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I'm quite lucky to be able to teach for a living. Currently, my focus is on courses in machine learning, AI, and math for data science, AI, and ML. I especially love helping students see how math can be beautiful sometimes.
+I'm quite lucky to be able to teach for a living. Currently, my focus is on courses in machine learning, AI, and math. I especially love helping students see how math can be beautiful sometimes.
 
 [Teaching philosophy](/assets/teaching_statement_short.pdf) · [Teaching portfolio (PDF, 40 MB)](/assets/teaching_portfolio_highres.pdf)
 

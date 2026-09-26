@@ -3,7 +3,7 @@ layout: default
 title: Research
 permalink: /research/
 ---
-On the research front, I currently would like to think and learn more about the burgeoning empirical science of machine learning.
+On the research front, I currently would like to think and learn more about the burgeoning empirical science of understanding *why* modern machine learning works. My background is in theory, but I'd like to learn more about how to empirically think about such questions.
 
 During my PhD, my research focused broadly on algorithmic statistics, machine learning theory, and online learning. A bit more specifically, my PhD research focused on the theory of statistical learning in settings where one cares about learning not just on *average* over a population, but on a (potentially very large) number of overlapping subgroups of the population. Such *multi-group* considerations can be captured in formalizations such as *multicalibration* or *multi-group PAC learning*, and they are meant to model problems that have more complex desiderata such as fairness or robustness. I also dablled in online learning, sequential decision-making, and all the [cool theory](https://cesa-bianchi.di.unimi.it/predbook/) that comes out of it.
 
