@@ -14,6 +14,7 @@ On the teaching front, I'm currently thinking about:
 - Are there better ways to structure and teach the mathematical prerequisites to machine learning/AI/data science?
 - How can students be motivated in the age of LLMs to engage in the productive struggle that's necessary to learn in a classroom environment, particularly in math courses?
 - What is the best way to structure an introductory machine learning course in an age where progress seems so rapid (and sometimes opaque)?
+- Is the *human* (versus, say, the personalized LLM tutor) teacher valuable in this LLM era (and why)? My own answer is yes, but I am, of course, biased.
 
 <details class="course-section" open>
 <summary>Current Courses</summary>
